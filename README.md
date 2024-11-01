@@ -1,3 +1,4 @@
 # hello-world
-This is for getting to learn GitHub\n 
-I go to school at Mizzou 
+This is for getting to learn GitHub  
+
+_I go to school at Mizzou_ 
